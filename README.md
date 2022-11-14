@@ -10,6 +10,9 @@
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAKEYSLINKY&show_icons=true&theme=tokyonight)
 <!-- **JAKEYSLINKY/JAKEYSLINKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Attending in Computer Science at School of Information Technology, King Mongkut's University of Technology Thonburi (CS@SIT KMUTT)
+and started my freshmen life at 2022. 
+I'm also a cadet of 42Bangkok KMITL 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
