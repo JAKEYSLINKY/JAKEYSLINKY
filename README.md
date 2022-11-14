@@ -4,7 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAKEYSLINKY&theme=radical)
 
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=31cvbqugbj36s276q4whfbhwjqri&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31cvbqugbj36s276q4whfbhwjqri&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&bar_color=4f7a28&bar_color_cover=true)]
 
 
 <!-- [ (https://github.com/anuraghazra/github-readme-stats)
