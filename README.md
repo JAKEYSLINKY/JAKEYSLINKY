@@ -1,6 +1,5 @@
 ### Welcome to my Github  ✨🤸🏼‍♀️
 
-HI, I'M JAKE
 𝑯𝒊! 𝑰'𝒎 𝑱𝑨𝑲𝑬 
 
 ![image](./sudo.JPG)
