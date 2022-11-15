@@ -6,5 +6,5 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31cvbqugbj36s276q4whfbhwjqri&width=600&count=5)
 
-![](./sudo.JPG&width=600&height=600)
+![](./sudo.JPG&width=600)
 
