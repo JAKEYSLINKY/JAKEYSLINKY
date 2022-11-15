@@ -2,7 +2,7 @@
 
 𝑯𝒊! 𝑰'𝒎 𝑱𝑨𝑲𝑬 
 
-![image](./sudo.JPG)
+![image](./sudo.JPG=200x200)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAKEYSLINKY&theme=tokyonight&width=500)<br>
 
