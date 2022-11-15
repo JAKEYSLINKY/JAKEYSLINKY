@@ -5,7 +5,7 @@ HI, I'M JAKE
 ![image](./sudo.JPG)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAKEYSLINKY&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAKEYSLINKY&width400&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JAKEYSLINKY&width500&theme=radical)
 
 
 
