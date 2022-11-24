@@ -1,7 +1,8 @@
-## 𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈 , 𝑬𝒏𝒋𝒐𝒚  ✨🤸🏼‍♀️
+## 𝑻𝒉𝒂𝒏𝒌𝒔 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈   ✨🤸🏼‍♀️
 
-Hola! warmly welcome to my github. I'm Jake, a newbie in programming.<br>
-Currently 1st year Student at Computer Science, School of Information Technology<br>
+<!--- Hola! warmly welcome to my github. I'm Jake, a newbie in programming.<br> -->
+
+👾 Currently 1st year Student at Computer Science, School of Information Technology<br>
 King Mongkut's University of Technology Thonburi (KMUTT) <br> 
 
 
