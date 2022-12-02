@@ -19,7 +19,7 @@ King Mongkut's University of Technology Thonburi (KMUTT) <br>
 
 ## 𝐊𝐧𝐨𝐰 𝐦𝐞 𝐦𝐨𝐫𝐞 
 𝐯𝐢𝐬𝐢𝐭 𝐦𝐲 𝐆𝐚𝐥𝐥𝐞𝐫𝐲 𝗼𝗻 𝗩𝗦𝗖𝗢 [𝑻𝒂𝒑 𝒉𝒆𝒓𝒆](http://vsco.co/suthatrithip) 🌞 <br>
-sent me direct message on Instagram [ 𝗧𝗔𝗣 𝗛𝗘𝗥𝗘 ](https://www.instagram.com/dontwakejakeup/) <br>
+<!--- sent me direct message on Instagram [ 𝗧𝗔𝗣 𝗛𝗘𝗥𝗘 ](https://www.instagram.com/dontwakejakeup/) <br> -->
 or else [ 𝗦𝗘𝗡𝗧 𝗠𝗘 𝗔𝗡 𝗘𝗠𝗔𝗜𝗟 ](https://mail.google.com/mail/?view=cm&fs=1&to=jeans2124@gmail.com) or 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 : JAKE #4544 <br>
 <br>
 <img src="./sudo.JPG" width="300" height="300">
